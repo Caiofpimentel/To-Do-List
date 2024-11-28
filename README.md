@@ -12,13 +12,12 @@ Este é um projeto de aplicação **To-Do List** desenvolvido em **Java** utiliz
 
 ## 🛠️ Funcionalidades
 - Adicionar usuários
-- Excluir usuários
 - Adicionar novas tarefas
 - Determinar data de inicio e fim
 - Listar todas as tarefas
 - Atualizar tarefas existentes
 - Excluir tarefas
-- Marcar tarefas como concluídas
+
 
 ## 🛡️ Segurança
 - Este projeto utiliza Autenticação Básica para proteger os endpoints. O acesso requer um nome de usuário e uma senha, enviados no cabeçalho da requisição.
